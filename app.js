@@ -144,6 +144,58 @@ const Tasks = [{
 {
     Task: "That one non-relative you would never see being hurt.",
     category: "truth"
+},
+{
+    Task: "Hold one of us' hand and tell them, 'I love you' while being at your romantic best",
+    category: "dare"
+},
+{
+    Task: "It's your last day in the world. What are the things you would do, before your death?",
+    category: "truth"
+},
+{
+    Task: "The most awkward moment of your life?",
+    category: "truth"
+},
+{
+    Task: "The five things you would bring to a desert Island",
+    category: "truth"
+},
+{
+    Task: "When was the last time you lied?",
+    category: "truth"
+},
+{
+    Task: "Weirdest thing you have ever put in your mouth?",
+    category: "truth"
+},
+{
+    Task: "Do a free style rap for next minute",
+    category: "dare"
+},
+{
+    Task: "Smell another player's armpit",
+    category: "dare"
+},
+{
+    Task: "Show us your best dance moves",
+    category: "dare"
+},
+{
+    Task: "What is your biggest insecurity?",
+    category: "truth"
+},
+{
+    Task: "How many stuffed animals do you own?",
+    category: "truth"
+},
+{
+    Task: "Whom do you text the most?",
+    category: "truth"
+},
+{
+    Task: "One silly thing you cannot live about?",
+    category: "truth"
 }
 ]
 
